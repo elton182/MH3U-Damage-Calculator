@@ -13,10 +13,8 @@ Windows users: The main branch contains a standalone executable for use on windo
 Mac/Linux/Windows users: Mac / Linux standalones aren't current available, but you can use
                          the python version of the program. This requires that you have
                          Python 3.4 installed on your system, but it should be painlessly
-                         multiplatform.
-                         
-                         Simply open the .py file and press F5 to run it from IDLE after you
-                         have Python installed.
+                         multiplatform. Simply open the .py file and press F5 to run it from 
+                         IDLE after you have Python installed.
                          
 
 Program usage is fairly straightforward. Select your desired weapon type, target monster, and
